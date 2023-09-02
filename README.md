@@ -10,7 +10,7 @@
   
   💬 I'm open to constructive criticism and eager to learn from your experiences.  
   
-  📫 Let's get in touch at tanvayeedhawale15@gmail.com  
+  📫 Let's get in touch at tdhawale4834@sdsu.edu 
       Linkedin: https://www.linkedin.com/in/tanvayee-dhawale/
 <!--
 **TanvayeeDhawale/TanvayeeDhawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
