@@ -6,9 +6,7 @@
   
   🌱 I’m currently learning Time Series Forecasting, and to create efficient and scalable ML models.  
   
-  👯 I’m looking for Analytics based Internships starting Summer 2024 in USA. 
-  
-  💬 I'm open to constructive criticism and eager to learn from your experiences.  
+  👯 I’m looking for Analytics based Internships starting Summer 2024 in USA.  
   
   📫 Let's get in touch at tdhawale4834@sdsu.edu 
       Linkedin: https://www.linkedin.com/in/tanvayee-dhawale/
